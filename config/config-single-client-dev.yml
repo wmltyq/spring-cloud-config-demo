@@ -1,5 +1,5 @@
 data:
-  env: config-single-dev
+  env: config-single-dev autoShow test
   user:
-    username: single-client-dev
-    password: single-dev
+    username: single-client-dev autoShow test
+    password: single-dev autoShow test
