@@ -1,5 +1,5 @@
 data:
-  env: config-single-dev autoShow test
+  env: config-single-dev autoShow RabbitMQ test
   user:
-    username: single-client-dev autoShow test
-    password: single-dev autoShow test
+    username: single-client-dev autoShow RabbitMQ test
+    password: single-dev autoShow RabbitMQ test
